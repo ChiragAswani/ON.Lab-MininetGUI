@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=id
+comment0.target=Place(int)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Place\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment1.text=\n\ Gets\ the\ private\ instance\ variable\ name\n\ \n
+comment2.params=id
+comment2.target=void\ setName(int)
+comment2.text=\n\ Sets\ the\ private\ instance\ variable\ name\n\ \n
+comment3.params=id
+comment3.target=java.lang.String\ makeName(int)
+comment3.text=\n\ Creates\ a\ name\ for\ the\ instance\ of\ this\ host\n\ \n\ @param\ \ \ id\ \ the\ id\ number\ we\ are\ giving\ to\ the\ host\n\ @param\ \ \ String\ \ the\ name\ of\ the\ host\n
+numComments=4

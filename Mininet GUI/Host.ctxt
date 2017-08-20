@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=id
+comment0.target=Host(int)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Host\n\ \n\ @param\ \ \ id\ \ the\ id\ number\ we\ are\ giving\ to\ the\ host\n
+comment1.params=id
+comment1.target=java.lang.String\ makeName(int)
+comment1.text=\n\ Creates\ a\ name\ for\ the\ instance\ of\ this\ host\n\ \n\ @param\ \ \ id\ \ the\ id\ number\ we\ are\ giving\ to\ the\ host\n\ @param\ \ \ String\ \ the\ name\ of\ the\ host\n
+numComments=2
